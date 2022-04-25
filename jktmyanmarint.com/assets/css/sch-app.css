@@ -1,0 +1,13 @@
+.sch-icon-list{
+    list-style-type: none;
+    margin: 30px 0 40px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.sch-list-item{
+    display: inline;
+}
+.sch-list-item img{
+    height: 50px;
+    width: 50px;
+}
